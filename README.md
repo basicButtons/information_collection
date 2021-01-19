@@ -1,0 +1,2 @@
+# information_collection
+用于收集实验志愿者的个人数据
